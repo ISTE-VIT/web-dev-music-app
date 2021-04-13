@@ -24,12 +24,14 @@
     - Mapping the data
   - Usage of useState, useEffect, useParams
   - Using <a href="https://www.npmjs.com/package/node-vibrant" target="_blank">Vibrant</a>
-<p align="center">
-	Made with :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
-</p>
+
 
 ## Relevant repository link
  - <a href="https://github.com/ISTE-VIT/web-dev-backend" target="_blank">WebDev Backend</a>
  #### Starter Pack repositories
  - <a href="https://github.com/ISTE-VIT/web-dev-react-app-starter" target="_blank">React App Starter</a>
  - <a href="https://github.com/ISTE-VIT/web-dev-backend-starter" target="_blank">Backend Starter</a>
+ 
+ <p align="center">
+	Made with :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>
